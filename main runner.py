@@ -11,7 +11,7 @@ while str(level) == "M" or str(level) == "m":
 while str(level) == "E" or str(level) == "e":
         print("Starting Easy level Math")
         Easy.maineasyrun()
-while str(level) == "M" or str(level) == "m":
+while str(level) == "H" or str(level) == "h":
         print("Starting Hard level Math")
         Hard.mainhardrun()
 
